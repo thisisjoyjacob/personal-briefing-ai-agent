@@ -1,4 +1,4 @@
-# claude-briefing-agent
+# personal-briefing-ai-agent
 
 A daily research-briefing agent. Every morning a GitHub Action wakes up, asks a
 free model via **OpenRouter** (with web-search grounding) what's changed on each
