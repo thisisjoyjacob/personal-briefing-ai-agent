@@ -5,7 +5,11 @@
     "US air-quality and environmental-sensing regulation"
   ],
   "model": null,
-  "summaries": {},
+  "summaries": {
+    "Anthropic and Claude model releases": "",
+    "AI agent frameworks and tooling": "",
+    "US air-quality and environmental-sensing regulation": ""
+  },
   "telegram_offset": null,
-  "last_run": null
+  "last_run": "2026-06-13T05:59:56.574289+00:00"
 }
